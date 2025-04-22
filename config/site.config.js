@@ -38,11 +38,11 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'AussieBucket :3 I am aussiebucket on discord if you wanna chat :D,
+    'AussieBucket :3 I am aussiebucket on discord if you wanna chat :D',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route , / 🗑️ Test Stuff'],
+  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route , /🗑️ Test Stuff'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '""',
