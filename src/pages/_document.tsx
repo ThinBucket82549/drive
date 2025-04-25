@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="description" content="OneDrive Vercel Index" />
+          <meta name="description" content="AussieBucket's Drive full of random things. very epic. :D" />
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
@@ -24,3 +24,5 @@ class MyDocument extends Document {
 }
 
 export default MyDocument
+
+ 
